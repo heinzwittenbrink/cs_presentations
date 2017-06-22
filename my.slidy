@@ -26,7 +26,7 @@ $highlighting-css$
   </style>
 $endif$
   <link rel="stylesheet" type="text/css" media="screen, projection, print"
-    href="$slidy-url$/styles/slidy_hw.css" />
+    href="https://github.com/heinzwittenbrink/cs_presentations/blob/master/styles/slidy_hw.css" />
 $for(css)$
   <link rel="stylesheet" type="text/css" media="screen, projection, print"
    href="$css$" />
